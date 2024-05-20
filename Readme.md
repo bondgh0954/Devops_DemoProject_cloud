@@ -51,3 +51,6 @@ Gradle
    copy the artifact to the server
 
    run with (java -jar nameofartifact)
+
+   check the port on which the application in running
+   add the port number to the custome firewall configuration
