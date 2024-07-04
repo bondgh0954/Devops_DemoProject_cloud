@@ -1,12 +1,12 @@
-# Cloud & Infrastructure as Service Basics
+<h1>Cloud & Infrastructure as Service Basics</h1> 
 
-# Demo Project
+<h2>Demo Project</h2>
 
-Create server and deploy application on DigitalOcean
+<p>Create server and deploy application on DigitalOcean</p>
 
 
 
-# Technologies used
+<h2>Technologies used</h2>
 
 DigitalOcean
 Linux
@@ -14,7 +14,7 @@ Java
 Gradle
 
 
-# Project Description:
+<h2>Project Description</h2>
 
 1. Setup and configure a server on DigitalOcean
   
